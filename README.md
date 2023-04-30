@@ -16,8 +16,9 @@
 This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline. This application is deployed through Heroku.
 
 ## Installation:
-- npm i
-- npm start
+- In the command line type npm i
+- In the command line type npm run start
+- This will run on http://localhost:3000/
 
 ## Usage:
 
