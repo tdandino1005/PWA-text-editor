@@ -5,11 +5,12 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployed Link](#deployed-link)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
 ## Description:
-This is a text editor application created in the UW Coding Bootcamp. The text editor runs in a browser and can be installed on a computer. It utilizes webpack, service-worker, express, javascript, css, and html.
+This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline. This application is deployed through Heroku.
 
 ## Installation:
 - npm i
@@ -17,8 +18,9 @@ This is a text editor application created in the UW Coding Bootcamp. The text ed
 
 ## Usage:
 
+## Deployed Link
 
-
+The link to the deployed application is: https://serene-fjord-47597.herokuapp.com/
 
 
 ## Contributing:
